@@ -1,0 +1,7 @@
+name: IA
+description: A sample command-line application
+dependencies:
+  args: any
+
+#dependencies:
+#  unittest: any

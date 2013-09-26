@@ -1,0 +1,7 @@
+1 unite de nourriture = 126 unite de temps
+vision augmente d'une unite a chaque lvl
+
+pour voir :
+	cmd : voir\n
+	rep : {objet-present-case0,objet-present-case1, ..., objet-present-caseP, ... }
+	
